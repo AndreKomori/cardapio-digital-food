@@ -39,3 +39,7 @@ npm start
 </ul>
 
 <h1>Funcionalidades da aplicação</h1>
+<img src="https://github.com/AndreKomori/cardapio-digital-food/blob/master/src/assets/home.png">
+<img src="https://github.com/AndreKomori/cardapio-digital-food/blob/master/src/assets/produto_cart.png">
+<img src="https://github.com/AndreKomori/cardapio-digital-food/blob/master/src/assets/checkout.png"> 
+<img src="https://github.com/AndreKomori/cardapio-digital-food/blob/master/src/assets/historico.png">
